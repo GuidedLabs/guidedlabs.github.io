@@ -1,0 +1,1 @@
+(function(){console.log("'Allo from CoffeeScripwt!")}).call(this),function(){console.log("hello")}.call(this);
